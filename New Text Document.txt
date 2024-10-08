@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poultry Cages Overview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .cage-type {
+            margin: 20px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .contact {
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Welcome to Our Poultry Cages Program</h1>
+        <p>Explore our range of poultry cages designed for optimal comfort and efficiency.</p>
+        
+        <div class="cage-type">
+            <h2>H-Type Cages</h2>
+            <img src="link-to-your-photo-h-type.jpg" alt="H-Type Cages">
+            <p>Efficient design for healthy chicken housing.</p>
+        </div>
+
+        <div class="cage-type">
+            <h2>Battery Cages</h2>
+            <img src="link-to-your-photo-battery.jpg" alt="Battery Cages">
+            <p>Maximize production while ensuring animal welfare.</p>
+        </div>
+
+        <div class="contact">
+            <p>For inquiries, please call us at <strong>0305-352-0787</strong>.</p>
+        </div>
+    </div>
+
+</body>
+</html>
